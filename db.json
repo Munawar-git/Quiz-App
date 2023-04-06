@@ -1,0 +1,59 @@
+{
+  "mcqs": [
+    {
+      "id": 3,
+      "question": "What does fly in the sky ?",
+      "options": {
+        "A": "Cycle",
+        "B": "Aeroplane",
+        "C": "Boat",
+        "D": "Car"
+      },
+      "answer": "Aeroplane"
+    },
+    {
+      "id": 4,
+      "question": "Which fruit is yellow in color ?",
+      "options": {
+        "A": "Grapes",
+        "B": "Orange",
+        "C": "Banana",
+        "D": "Chiku"
+      },
+      "answer": "Banana"
+    },
+    {
+      "id": 5,
+      "question": "Which one is not a vegetable ?",
+      "options": {
+        "A": "Strawberry",
+        "B": "Potato",
+        "C": "Cabbage",
+        "D": "Onion"
+      },
+      "answer": "Strawberry"
+    },
+    {
+      "id": 6,
+      "question": "Which is first the alphabet?",
+      "options": {
+        "A": "X",
+        "B": "Q",
+        "C": "N",
+        "D": "A"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "question": "What is the color of Rose?",
+      "options": {
+        "A": "Red",
+        "B": "Yellow",
+        "C": "Orange",
+        "D": "Blue"
+      },
+      "answer": "Red"
+    }
+  ]
+}
